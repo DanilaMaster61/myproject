@@ -11,14 +11,11 @@
 <!-- Header -->
 <nav class="navbar navbar-light bg-primary">
  <div class="container-fluid">
- <a class="navbar-brand" href="#">
+ <a class="navbar-brand" href="/myproject/">
  <img src="images/1.png" alt="" width="80"
 height="80" >
  </a>
- <a href="/myproject/">
-<img alt="Логотип" id="top-image" src="images/1.png">
-</a>
- <h2>Управление персоналом</h2>
+ <h2>Магазин книг</h2>
  </div>
 </nav>
 <!-- /Header -->

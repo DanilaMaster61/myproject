@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<title>Управление персоналом</title>
+<title>Магазин книг</title>
 </head>
 <body>
 <div class="container-fluid">
@@ -16,10 +16,10 @@
 <div class="container">
 <br><br><br>
 <div class="list-group text-center py-3 px-3">
-<h2>Функции системы</h2>
+<h2>Меню</h2>
 <ul class="list-group list-group-flush">
-<li class="list-group-item list-group-itemprimary"><a href="#">Сотрудники</a>
-<li class="list-group-item list-group-iteminfo"><a href="#">Должности</a>
+<li class="list-group-item list-group-itemprimary"><a href="#">Книги</a>
+<li class="list-group-item list-group-iteminfo"><a href="#">Заказы</a>
 </ul>
  </div>
 <br><br>
