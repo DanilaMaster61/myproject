@@ -12,7 +12,7 @@
 <nav class="navbar navbar-light bg-primary">
  <div class="container-fluid">
  <a class="navbar-brand" href="/myproject/">
- <img src="images/1.png" alt="" width="80"
+ <img src="${pageContext.request.contextPath}/images/1.png" alt="" width="80"
 height="80" >
  </a>
  <h2>Магазин книг</h2>

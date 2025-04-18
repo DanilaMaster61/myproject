@@ -10,7 +10,7 @@ import java.io.PrintWriter;
 /**
 * Servlet implementation class RoleServlet_
 */
-@WebServlet("/HelloBookServlet")
+@WebServlet("/book")
 public class BookServlet extends HttpServlet {
 private static final long serialVersionUID = 1L;
 

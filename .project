@@ -44,5 +44,15 @@
 			<type>1</type>
 			<location>C:/Users/Данила/Downloads/jquery-3.7.1.js</location>
 		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.0.jar</name>
+			<type>1</type>
+			<location>C:/Users/Данила/Downloads/labs_razrabotka-master/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.0.jar</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar</name>
+			<type>1</type>
+			<location>C:/Users/Данила/Downloads/labs_razrabotka-master/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar</location>
+		</link>
 	</linkedResources>
 </projectDescription>
